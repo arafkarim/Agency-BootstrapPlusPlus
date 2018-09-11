@@ -1,0 +1,29 @@
+{
+    "title": "Agency",
+    "name": "Agency - Bootstrap Plus Plus HTML Template",
+    "version": "1.0.0",
+    "description": "Bootstrap Plus Plus HTML Template based on Material Bootstrap Theme.",
+    "keywords": [
+		"html",
+        "css", 
+		"Boootstrap",		
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://bootstrapplusplus.com/template/agency/",
+    "bugs": {
+        "feedback": "https://bootstrapplusplus.com/feedback.html"
+    },
+    "license": "MIT",
+    "author": "Araf Karim @ Bootstrap Plus Plus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arafkarim/Agency-BootstrapPlusPlus.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.3",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1"
+    }
+}
